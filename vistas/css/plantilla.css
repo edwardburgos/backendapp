@@ -1,0 +1,136 @@
+/*=============================================
+REDES SOCIALES
+=============================================*/
+#app-whatsapp{
+	position: fixed;
+	right: 24px;
+	bottom: 25px;
+	width: 60px;
+	z-index: 1000;
+	display: none;
+}
+.centrarto {
+	text-align: center;
+
+}
+.centrar {
+	text-align: center;
+	background-color: #6dd8af;
+	margin-bottom: 0px;
+	width: 99%;
+}
+.centrarr {
+	text-align: center;
+	background-color: #6dd8af;
+	margin-bottom: 0px;
+	width: 92%;
+}
+#app-whatsapp{
+	bottom: 95px;
+	display: block;
+}
+#app-whatsapp i{
+	font-size: 63px;
+}
+#app-whatsapp i{
+	color: #1ebea5;
+}
+.redSocial{
+	width:30px;
+	height:30px;
+	text-align: center;
+	line-height:30px;
+}
+
+/*FACEBOOK*/
+
+.facebookBlanco{
+	color:white;
+	background: black;
+}
+
+.facebookNegro{
+	color:black;
+}
+
+.facebookColor{
+	color:white;
+	background:#46639f;
+}
+
+/*YOUTUBE*/
+
+.youtubeColor{
+	color:white;
+	background:#d6513e;
+}
+
+.youtubeBlanco{
+	color:white;
+	background: black;
+}
+
+.youtubeNegro{
+	color:black;
+}
+
+/*TWITTER*/
+
+.twitterColor{
+	color:white;
+	background:#0ab2e6;
+}
+
+.twitterBlanco{
+	color:white;
+	background: black;
+}
+
+.twitterNegro{
+	color:black;
+}
+
+/*GOOGLE PLUS*/
+
+.google-plusColor{
+	color:white;
+	background:#d71617;
+}
+
+.google-plusBlanco{
+	color:white;
+	background: black;
+}
+
+.google-plusNegro{
+	color:black;
+}
+
+/*INSTAGRAM*/
+
+.instagramColor{
+	color:white;
+	background:linear-gradient(45deg, #fca925, #ee1d5f,  #6350a2);
+
+}
+
+.instagramBlanco{
+	color:white;
+	background: black;
+}
+
+.instagramNegro{
+	color:black;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	background: none;
+	color: black!important;
+	border-radius: 4px;
+	border: 1px solid #828282;
+  }
+   
+  .dataTables_wrapper .dataTables_paginate .paginate_button:active {
+	background: none;
+	color: black!important;
+  }
